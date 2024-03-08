@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project]
+name = "starterpack"
+version = "0.1.0"
+dependencies = []
+requires-python = ">=3.4"
+authors = [{name = "Package Dummy", email = "packagesfordummies@gmail.com"}]
+description = "PackagesForDummies StarterPack"
+readme = "README.md"
+license = {"Use as you want. Take ownership as you want. Do not sue me."}
