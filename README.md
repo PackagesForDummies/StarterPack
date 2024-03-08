@@ -70,4 +70,7 @@ In the subfolder src/starterpack/ , there are two more files more:
 
 # So how does it work?
 
-
+# Is there anything in this package, which didn't need to be there?
+Docstrings
+Type hints
+src folder
