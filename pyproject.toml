@@ -9,7 +9,7 @@ where = ["src"]
 name = "starterpack"
 version = "0.1.0"
 dependencies = []
-requires-python = ">=3.4"
+requires-python = ">=3.8"
 authors = [{name = "Package Dummy", email = "packagesfordummies@gmail.com"}]
 description = "PackagesForDummies StarterPack"
 readme = "README.md"
